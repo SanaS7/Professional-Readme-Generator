@@ -8,6 +8,8 @@ The tool is built using Node.js and utilizes the inquirer package to prompt the 
 
 With the Professional ReadME Generator, you can streamline the process of creating a professional-looking README file for your project, freeing up your time to focus on developing your project further. Try it out today and see how easy it can be to create a great README file for your project!
 
+<code><i>Video</i></code>: https://raw.githubusercontent.com/SanaS7/Professional-Readme-Generator/main/Video.mp4
+
 ## Table of Contents
         - [Installation]
         - [Usage]
@@ -44,6 +46,15 @@ You'll be asked a series of questions about your project, such as the project ti
 The generated README file will be named based on the value you provide when prompted for the file name, followed by the ".md" extension.
 
 The Professional ReadME Generator is a great tool for anyone looking to streamline the process of creating a high-quality README file for their projects. Give it a try today and see how easy it can be to create a great README file in just a few minutes!
+
+## Screenshots
+
+![Screenshot](https://raw.githubusercontent.com/SanaS7/Professional-Readme-Generator/main/1.png)<br>
+<br>
+After Completing all the Prompts, you can see you generated README file<br>
+<br>
+![Screenshot](https://raw.githubusercontent.com/SanaS7/Professional-Readme-Generator/main/2.png)
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
